@@ -1,2 +1,3 @@
 *.sql
 /include/constants.php
+.htaccess
